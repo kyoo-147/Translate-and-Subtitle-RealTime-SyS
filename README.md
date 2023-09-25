@@ -19,7 +19,7 @@ Reqs:
 Usage: ( recomment: using python >= 3.8.3)
 `python X_Main.py`
 
-![alt text](https://imgur.com/lqxGdCW))
+ <img alt="banner" style="width:100vw" src="https://i.imgur.com/lqxGdCW.png">
 
 
 
