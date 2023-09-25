@@ -19,7 +19,7 @@ Reqs:
 Usage: ( recomment: using python >= 3.8.3)
 `python X_Main.py`
 
- <img alt="banner" style="width:100vw" src=" <img alt="banner" style="width:100vw" src="https://i.pinimg.com/originals/08/05/3f/08053f69eb1664dfe45d3b08257543b4.gif">">
+ <img alt="banner" style="width:100vw" src=" <img alt="banner" style="width:100vw" src="[https://i.pinimg.com/originals/08/05/3f/08053f69eb1664dfe45d3b08257543b4.gif](https://ibb.co/M1xtB6w)https://ibb.co/M1xtB6w">
 
 
 
