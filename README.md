@@ -19,7 +19,6 @@ Reqs:
 Usage: ( recomment: using python >= 3.8.3)
 `python X_Main.py`
 
-<img src="https://i.imgur.com/wT6B70A.png" alt="Alt text">
 <img src="https://i.imgur.com/lqxGdCW.png" alt="Alt text">
 
 
