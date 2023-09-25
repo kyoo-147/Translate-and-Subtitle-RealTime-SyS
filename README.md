@@ -19,7 +19,7 @@ Reqs:
 Usage: ( recomment: using python >= 3.8.3)
 `python X_Main.py`
 
- <img alt="banner" style="width:100vw" src=" <img alt="banner" style="width:100vw" src="https://imgur.com/lqxGdCW">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/uIhDUjZ"  ><a href="//imgur.com/a/uIhDUjZ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 
