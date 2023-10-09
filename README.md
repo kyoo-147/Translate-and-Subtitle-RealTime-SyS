@@ -1,5 +1,5 @@
 # Ứng dụng hỗ trợ ngôn ngữ và phiên dịch dành cho người khó nghe và nhìn - Tích hợp Real-Time
-
+----Phát Triển: Bùi Minh Cường - NaVin Tech-----
 ## X_Trans_Sub_RT_SyS
 X_Trans_Sub_RT_SyS là một ứng dụng giúp người khó nghe và nhìn có thể dễ dàng phân tích và xem được nội dung văn bản và âm thanh, ngoài ra ứng dụng còn hỗ trợ nhận diện giọng nói và dịch đa ngôn ngữ real-time, nhằm hỗ trợ người dùng một cách tốt nhất.
 
